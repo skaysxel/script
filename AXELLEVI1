@@ -1,1 +1,20 @@
-
+_G.CrewSettings = {
+    ["OwnBoat"] = "nrayoisanu", -- ชื่อคนที่มีเรือสำหรับดึงหัวใจ
+    ["Method"] = "SanguineArt", -- ใส่ SanguineArt เพื่อทำหมัด หรือใส่ CraftBoat สำหรับทำแค่เรือหรือดึงหัวใจ ไม่ใส่เลยคือทำหมัด ( ไม่ใส่เลยคือลบบรรทัดนี้ไม่ใช่ "" )
+    ["CrewMember"] = { -- ชื่อรหัสที่จะทำใส่ได้ 11 ตัว
+        "rhacauzisi",
+        "sonauiabno",
+        "uzaiubscba",
+        "inbsannnba",
+        "usazuzoaai",
+        "acaacycufa",
+        "uanmasypca",
+        "suanauzuip",
+        "orihaoausb",
+        "oonyspiosa",
+        "auaaccizfn"
+    }
+}
+getgenv().Key = "MARU_NewM-HMJNQ0M3S5OFQP4"
+getgenv().id = "1197947995338059917"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xshiba/MasterPClient/main/LoaderxP.lua"))()
