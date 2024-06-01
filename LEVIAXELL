@@ -4,14 +4,14 @@ _G.CrewSettings = {
     ["CrewMember"] = { -- ชื่อรหัสที่จะทำใส่ได้ 11 ตัว
         "SinsPrideGluttony",
         "aidilakbar241099yy",
-        "yarcafhaan"
-        "TruonglienHzoxJ"
-        "rbmizmiaaz"
-        "itephd"
+        "yarcafhaan",
+        "TruonglienHzoxJ",
+        "rbmizmiaaz",
+        "itephd",
         "inbrcnfuib"
-        "uhibuifhbb"
-        "ariypsmnah"
-        "mpryauzash"
+        "uhibuifhbb",
+        "ariypsmnah",
+        "mpryauzash",
         "Lok84Y"
     }
 }
